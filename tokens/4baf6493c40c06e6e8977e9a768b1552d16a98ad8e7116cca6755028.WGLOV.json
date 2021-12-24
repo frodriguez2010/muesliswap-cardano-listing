@@ -1,0 +1,9 @@
+{
+    "policyId": "4baf6493c40c06e6e8977e9a768b1552d16a98ad8e7116cca6755028",
+    "name": "WRAPPEDGLOVECOIN",
+    "symbol": "WGLOV",
+    "website": "https://www.primestyleltd.com/cryptofightclub",
+    "description": "Cardano token version of our Scrypt based coin Glov, Aligned with our former project representation CryptoFightClub, this new asset will now represent our new focus “The CryptoFightClub Movement, it's not the size of the Crypto in the fight, but the fight in the size of the Crypto!”,
+    "totalSupply": 2999000,
+    "amounts": [1, 10, 100, 1000, 10000, 100000]
+}
